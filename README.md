@@ -1,5 +1,5 @@
 # 成趣教育区块链开发系列培训课程
-![](https://github.com/ChengQuEducation/BlockChain/master/Screenshots/banner.png)
+![](https://github.com/ChengQuEducation/BlockChain/blob/master/Screenshots/banner.jpeg)
 
 [课程连接](https://app-yundian.qilitech.cn/plat/m/product-view?productId=b9809230ed2e48d7b781a7c107c0743a&vip_expertsId=ecebdab572af4954a84a0e64b62bc0fe&from=timeline&isappinstalled=0)
 
