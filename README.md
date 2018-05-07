@@ -33,7 +33,12 @@
     * [day04_03_比特币测试网络交易及bitcoin-cli](https://pan.baidu.com/s/109t1qVXIbqJVyeWj4fhFIQ)
     * [day04_04_比特币客户端bitcoind的安装](https://pan.baidu.com/s/1mqJ19VKN0w3tD04GpJs2tA)
     * [day04_05_比特币客户端bitcoind中RPC命令的高级用法](https://pan.baidu.com/s/1gyGfCjrn5jp1C6bZk93I7A)
-
+* 05 比特币应用开发实战（更新中...）
+    * 比特币交易流程及交易脚本
+    * 比特币交易系统
+    * 比特币私链搭建
+    * 担保和调节的脚本实现
+    * 跨链交易脚本实现
 
 
 
