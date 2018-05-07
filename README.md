@@ -1,5 +1,5 @@
 # 成趣教育区块链开发系列培训课程
-
+![](https://github.com/ChengQuEducation/BlockChain/blob/master/Screenshots/banner.jpeg)
 ## 区块链1.0 - 比特币
 * 01区块链基础篇 day01
     * [day01_00-认识区块链家族](https://pan.baidu.com/s/1rUzY2bnPnyp8RZIQPufO7g)
@@ -18,7 +18,7 @@
     * [day02_05_密码算法_数字签名](https://pan.baidu.com/s/1uc7dMHDl0L5BQTqu2ZriKA)
     * [day02_06_密码算法_Base64编码与解码](https://pan.baidu.com/s/1pAFvayoYN1XUhGX-iGZVSg)
     * [day02_07_密码算法_比特币地址生成算法第一讲](https://pan.baidu.com/s/1YUfRlDLzDkUHwE5hNdjeiw)
-    * [day02_08_密码算法_比特币地址生成算法第二讲_Base58及Secp6k1代码实现](https://pan.baidu.com/s/1LIsQZUaaTK75RJjVWaRwWw)
+    * [day02_08_密码算法_比特币地址生成算法第二讲_Base58及Secp256k1代码实现](https://pan.baidu.com/s/1RSj9U_LEFIzdAXewklxkiA)
     * [day02_09_密码算法_比特币地址生成算法第三讲_WIF私钥与16进制格式私钥的转换](https://pan.baidu.com/s/1OMTeAofR-8NkCs_JN5IlNQ)
     * [day02_10_密码算法_比特币地址生成算法第四讲_生成比特币地址](https://pan.baidu.com/s/12qekJTVCMtyFRUWVe5nLew)
 * 03区块链共识算法篇 day03
