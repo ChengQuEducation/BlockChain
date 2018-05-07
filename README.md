@@ -79,11 +79,11 @@
 * [20开发以太坊钱包-truffle入门指南-03创建自己的数字货币](https://pan.baidu.com/s/13REb3mC2AniIoq-5fgckAQ)
 * [21以太坊开发框架truffle入门指南-04 创建转账界面](https://pan.baidu.com/s/1O84r6AFqYDhapL1HgQ6l_w)
 * [22以太坊开发框架truffle入门指南-04 创建转账界面2](https://pan.baidu.com/s/1qS6Ip4-Cz44QaO8dp4Jp4w)
-* [01-王保政-windows以太坊多节点私有链+mist培训视频](https://pan.baidu.com/s/11zgFKEUccdIQtF6cw-h4zg)
+* [23-windows系统下以太坊多节点私有链搭建及mist操作](https://pan.baidu.com/s/11zgFKEUccdIQtF6cw-h4zg)
 
 
 
-## 区块链3.0 Hyperledgerd 
+## 区块链3.0 Hyperledger
 *  Fabric原理
     *  超级账本项目背景
     *  Fabric简介
