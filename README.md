@@ -46,6 +46,8 @@
     * [day04_03_比特币测试网络交易及bitcoin-cli](https://pan.baidu.com/s/109t1qVXIbqJVyeWj4fhFIQ)
     * [day04_04_比特币客户端bitcoind的安装](https://pan.baidu.com/s/1mqJ19VKN0w3tD04GpJs2tA)
     * [day04_05_比特币客户端bitcoind中RPC命令的高级用法](https://pan.baidu.com/s/1gyGfCjrn5jp1C6bZk93I7A)
+    * [day04_06_比特币客户端bitcoind的安装](https://pan.baidu.com/s/1mpmO-FJha7A-5J1zS0t8Lw)
+    * [day04_07_比特币客户端bitcoind中RPC命令的高级用法](https://pan.baidu.com/s/1POfdkb78aelsGxQwyud67A)
 * 05 比特币应用开发实战（更新中...）
     * 比特币交易流程及交易脚本
     * 比特币交易系统
