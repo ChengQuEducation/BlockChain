@@ -34,6 +34,8 @@
     * [day02_08_密码算法_比特币地址生成算法第二讲_Base58及Secp256k1代码实现](https://pan.baidu.com/s/1RSj9U_LEFIzdAXewklxkiA)
     * [day02_09_密码算法_比特币地址生成算法第三讲_WIF私钥与16进制格式私钥的转换](https://pan.baidu.com/s/1OMTeAofR-8NkCs_JN5IlNQ)
     * [day02_10_密码算法_比特币地址生成算法第四讲_生成比特币地址](https://pan.baidu.com/s/12qekJTVCMtyFRUWVe5nLew)
+    * [day02_11_密码算法_ECDSA交易签名及签名验证第1讲_初识比特币交易及签名](https://pan.baidu.com/s/1U0Q9qXdR_sqS_81lrXiQrg)
+    * [day02_12_密码算法_ECDSA交易签名及签名验证第2讲_完善Secp256k1Util工具类](https://pan.baidu.com/s/1JNih-ZheCKPlEWbcRI008g)
 * 03区块链共识算法篇 day03
     * [day03_01_共识算法第1讲](https://pan.baidu.com/s/1uUU_w29CJpR9yFAC66AmDg)
     * [day03_02_共识算法第2讲](https://pan.baidu.com/s/1qi_ouaDviWTsQMrlpgPKzw)
