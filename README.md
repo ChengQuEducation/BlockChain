@@ -61,6 +61,7 @@
     * [day06_01_比特币交易开发_regtest测试私链搭建](https://pan.baidu.com/s/1o0k5T9Nm1M7fehdChSG4aw
 )
     * [day06_02_比特币交易开发_命令行构造交易](https://pan.baidu.com/s/1whw_oZFetA_uKMd4YH86lg)
+    * [day06_03_比特币交易开发_RPC接口调用](https://pan.baidu.com/s/1SotNwyYSXoUbGdAtLP0CDA)
 
 
 
